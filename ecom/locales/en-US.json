@@ -1,0 +1,44 @@
+{
+    "brandName": "Tmooz.com",
+    "language": "Language",
+    "english": "English",
+    "malay": "Malay",
+    "chinese": "Chinese",
+  
+    "log in": "Log In",
+    "login-desc": "to continue with",
+    "login-error": "Please enter valid email and password!",
+    "or": "or",
+    "form-email": "E-mail Address (required)",
+    "form-password": "Password",
+    "login-signup": "Don't have an account?",
+  
+    "sign up": "Sign Up",
+    "signup-error-title": "Please enter valid email!",
+    "signup-error-desc": "If you are unable to login after purchase the premium account please contact our representative.",
+    "signup-desc": "to continue with",
+    "signup-agreed 1": "By signing up, I agree to the",
+    "signup-agreed 2": "of Buyonbids.com",
+    "signup-login": "Already have an account?",
+    "signup-loading": "Summiting your information...",
+    "signup-sent-title": "Premium Account Registered",
+    "signup-sent-desc 1": "Please contact Buyonbids representative if you are still unable to login.",
+    "signup-sent-desc 2": "Please",
+    "signup-sent-desc 3": "to your account.",
+  
+    "profile": "Profile",
+    "my account": "My Account",
+    "wishlist": "Wishlist",
+    "hi,": "Hi,",
+    "username": "Username",
+    "email": "E-mail",
+    "change password": "Change Password",
+    "change-desc": "Click on me to change your password",
+    "update information": "Update Information",
+    "my pos list": "My POS List",
+    "pos download list": "POS Download List",
+    "pos downlolad list-desc": "POS file will be deleted by the system after the property auction date.",
+  
+    "log out": "Log Out"
+  }
+  
